@@ -1,0 +1,6 @@
+﻿  moc mainwindow.h
+  mainwindow.cpp
+  main.cpp
+  qrc_mainwindow.cpp
+  moc_mainwindow.cpp
+  mainwindow.vcxproj -> C:\Users\小姚\source\repos\mainwindow\x64\Debug\mainwindow.exe
